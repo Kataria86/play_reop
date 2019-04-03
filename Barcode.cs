@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.IO;
 using ZXing.QrCode;
-
+// test 
 namespace barcodeGenerator
 {
     public class Barcode
