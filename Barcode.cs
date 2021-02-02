@@ -9,7 +9,7 @@ namespace barcodeGenerator
     {
         public Barcode()
         {
-
+            //just for testing the conmit
         }
 
         public Bitmap Geerate(string barcode, int height = 170, int width = 375)
